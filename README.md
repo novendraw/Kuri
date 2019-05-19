@@ -17,10 +17,10 @@
 2. Caesar Cipher
 
 ## Cara Penggunaan
-1. Untuk enkripsi Vigenere cipher, kirim JSON dengan request POST ke cryptoirk.herokuapp.com/crypto/1
-2. Untuk dekripsi Vigenere cipher, kirim JSON dengan request POST ke cryptoirk.herokuapp.com/crypto/2
-3. Untuk enkripsi Caesar cipher, kirim JSON dengan request POST ke cryptoirk.herokuapp.com/crypto/3
-4. Untuk dekripsi Caesar cipher, kirim JSON dengan request POST ke cryptoirk.herokuapp.com/crypto/4
+1. Untuk enkripsi Vigenere cipher, kirim JSON dengan request POST ke [cryptoirk.herokuapp.com/crypto/1](cryptoirk.herokuapp.com/crypto/1)
+2. Untuk dekripsi Vigenere cipher, kirim JSON dengan request POST ke [cryptoirk.herokuapp.com/crypto/2](cryptoirk.herokuapp.com/crypto/2)
+3. Untuk enkripsi Caesar cipher, kirim JSON dengan request POST ke [cryptoirk.herokuapp.com/crypto/3](cryptoirk.herokuapp.com/crypto/3)
+4. Untuk dekripsi Caesar cipher, kirim JSON dengan request POST ke [cryptoirk.herokuapp.com/crypto/4](cryptoirk.herokuapp.com/crypto/4)
 
 ## Spesifikasi API
 1. Terdapat sebuah _endpoint_ yang akan menerima _plaintext_, lalu mengubahnya menjadi _ciphertext_. _Endpoint_ akan menerima **POST** _request_ dengan _payload_:
